@@ -14,5 +14,5 @@ This repository houses meta-documents for our community, including our Code of C
 ## Participate
 
 - Read our [Code of Conduct](.github/CODE_OF_CONDUCT.md)
-- Join the discussion in the [Discussions tab]
-- Have a project or archive to contribute? [Open an issue]
+- Join the discussion in the [Discussions tab](https://github.com/eliterature/discussions)
+- Have a project or archive to contribute? [Open an issue](https://github.com/eliterature/issues)
