@@ -4,7 +4,7 @@ Welcome to the Electronic Literature Organization's GitHub.
 
 ## What This Is
 
-This repository houses meta-documents for our community, including our Code of Conduct and contribution guidelines. It also provides links to active ELO projects hosted on GitHub.
+This repository houses meta-documents for our community, including our [Code of Conduct](https://github.com/eliterature/.github/blob/main/CODE_OF_CONDUCT.md) and [contribution guidelines](https://github.com/eliterature/.github/blob/main/CONTRIBUTING.md). It also provides links to active ELO projects hosted on GitHub.
 
 ## Projects
 
